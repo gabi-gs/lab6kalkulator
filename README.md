@@ -1,1 +1,1 @@
-# lab6kalkulator
+# lab6
